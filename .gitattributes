@@ -1,0 +1,9 @@
+# 翻译很迷，看看就好，括号内为原文。
+# 声明文件始终有LF行结尾在结尾。（Declare files that will always have LF line endings on checkout.）
+META-INF/** text eol=lf
+*.prop text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+
+# 表示所有文件都被真正地编译为二进制，不应修改。（Denote all files that are truly binary and should not be modified.）
+system/** binary

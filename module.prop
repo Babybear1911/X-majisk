@@ -1,0 +1,10 @@
+id=template
+name=模板模块
+version=v1
+versionCode=1
+author=topjohnwu（作者，可中文）
+description=A short description（描述，可中文）
+
+#模块id只能包含数字、英文字母、半角符号（不能使用中文，因为中文是全角），而且最好以字母开头
+#id正确表达式：^[a-zA-Z][a-zA-Z0-9._-]+$
+#versionCode必须是一个整数（int）

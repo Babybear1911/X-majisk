@@ -1,0 +1,4 @@
+# 此文件将被重写prop机制（resetprop）读取
+# 示例: 更改 dpi
+# 则写
+# ro.sf.lcd_density=320（重写/system/build.prop中的内容）
